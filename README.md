@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khraina&label=Profile%20views&color=0e75b6&style=flat" alt="khraina" /> </p>
 
 
-- 🔭 I’m currently working on **Deepfake Detection using resnext and lstm**
+- 🔭 I’m currently working on **AI CHATBOTS**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **NLP AND LLM**
 
 - 💬 Ask me about **C,C++,html,css,javascript,python**
 
